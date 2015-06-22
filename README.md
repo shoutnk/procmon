@@ -2,7 +2,7 @@
 Send a notification when a process is finished
 
 ```
-  $ python proc\_mon.py [-f listfile] [-d delay]
+  $ python proc_mon.py [-f listfile] [-d delay]
 ```
 
 ```
